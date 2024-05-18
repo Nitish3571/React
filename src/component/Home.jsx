@@ -3,11 +3,11 @@ import Typewriter from 'typewriter-effect';
 
 function Home() {
   const word = [
-    { text: "dsgds", className: "text-yellow-500" },
-    { text: "sdssdsgds", className: "text-blue-500" },
-    { text: "dsgdsdfdsfdss", className: "text-green-500" },
-    { text: "dsgdssdfdsgdsgds", className: "text-red-500" },
-    { text: "dsgdssdgdsgdsgesgdsge", className: "text-purple-500" },
+    { text: "Nitish ", className: "text-yellow-500" },
+    { text: "Nitish Rana", className: "text-blue-500" },
+    { text: "Software", className: "text-green-500" },
+    { text: "Software Developer", className: "text-red-500" },
+    { text: "Software Development", className: "text-purple-500" },
   ];
 
   return (
